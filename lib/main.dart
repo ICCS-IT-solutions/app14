@@ -11,6 +11,10 @@ void main()
     runApp(const DocScanApp());
 }
 
+
+//This is a demo app for testing a flutter document scanner package.
+
+//Nothing too special. It needs access to the camera and gallery.
 class DocScanApp extends StatefulWidget
 {
     const DocScanApp({super.key});
